@@ -1,0 +1,4 @@
+/*Se não passar valor no campo ele fica vermelho de obrigatorio*/
+/*.ng-invalid.ng-touched:not(form) {
+    border: 1px solid red;
+}*/
